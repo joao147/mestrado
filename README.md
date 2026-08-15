@@ -1,2 +1,3 @@
-# mestrado
-desenvolvimento de mestrado
+# Mestrado - Visão Computacional
+
+desenvolvimento de mestrado na Área de Visão Computacional
